@@ -54,17 +54,17 @@ will be considered afterwards.
 | 1 (8/31) | Syllabus week + Intro to Bitcoin | |
 | 2 (9/7) | Blockchain Structure | Quiz 1, Project 1 OUT |
 | 3 (9/14) | Proof-of-Work and Mining | Quiz 2 |
-| 4 (9/21) | Transactions | Project 1 DUE |
-| 5 (9/28) | Wallets | Quiz 3, Project 2 OUT |
-| 6 (10/5) | Anonymity | Quiz 4 |
-| 7 (10/12) | Politics and Regulation | Quiz 5, Project 2 DUE |
+| 4 (9/21) | Transactions | Quiz 3, Project 1 DUE |
+| 5 (9/28) | Wallets | Quiz 4, Project 2 OUT |
+| 6 (10/5) | Anonymity | Quiz 5 |
+| 7 (10/12) | Politics and Regulation | Quiz 6, Project 2 DUE |
 | 8 (10/19) | MIDTERM | |
-| 9 (10/26) | Cryptocurrency Market and ICOs | Quiz 6, Final Project OUT |
-| 10 (11/2) | Altcoins (focus on Ethereum) and Proof-of-Stake | Quiz 7 |
-| 11 (11/9) | Ethereum Contracts | Quiz 8 |
+| 9 (10/26) | Cryptocurrency Market and ICOs | Quiz 7, Final Project OUT |
+| 10 (11/2) | Altcoins (focus on Ethereum) and Proof-of-Stake | Quiz 8 |
+| 11 (11/9) | Ethereum Contracts | Quiz 9 |
 | 12 (11/16) | Ethereum Contracts (cont'd) | |
 | 13 (11/23) | THANKSGIVING BREAK | |
-| 14 (11/30) | Ethereum as a Platform + Final Presentations | Quiz 9 |
+| 14 (11/30) | Ethereum as a Platform + Final Presentations | Quiz 10 |
 | 15 (12/7) | Final Presentations | Final Project Due |
 
 ## Projects
