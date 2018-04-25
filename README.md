@@ -25,7 +25,7 @@ Recommended:
 - Mining, Faucets
 - Wallets & Anonymity
 - Politics & Regulation
-- Crypto Markets, Market Caps, Investors
+- Cryptocurrency Markets, Market Caps, Investors
 - Bitcoin as a Platform
 - Altcoins (focus on Ethereum)
 - ICO (Initial Coin Offerings)
