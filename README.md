@@ -54,7 +54,7 @@ will be considered afterwards.
 | 1 (8/31) | Syllabus week + Intro to Bitcoin | |
 | 2 (9/7) | Blockchain Structure | Quiz 1, Project 1 OUT |
 | 3 (9/14) | Proof-of-Work and Mining | Quiz 2 |
-| 4 (9/21) | Transactions | Quiz 3, Project 1 DUE |
+| 4 (9/21) | Bitcoin Transactions | Quiz 3, Project 1 DUE |
 | 5 (9/28) | Wallets | Quiz 4, Project 2 OUT |
 | 6 (10/5) | Anonymity | Quiz 5 |
 | 7 (10/12) | Politics and Regulation | Quiz 6, Project 2 DUE |
