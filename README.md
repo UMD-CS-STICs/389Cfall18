@@ -60,9 +60,9 @@ will be considered afterwards.
 | 7 (10/12) | Politics and Regulation | Quiz 5, Project 2 DUE |
 | 8 (10/19) | MIDTERM | |
 | 9 (10/26) | Cryptocurrency Market and ICOs | Quiz 6, Final Project OUT |
-| 10 (11/2) | Altcoins (focus on Ethereum) and Proof-of-Stake | Quiz 7, Codelab 3 OUT |
+| 10 (11/2) | Altcoins (focus on Ethereum) and Proof-of-Stake | Quiz 7 |
 | 11 (11/9) | Ethereum Contracts | Quiz 8 |
-| 12 (11/16) | Ethereum Contracts (cont'd) | Codelab 3 DUE |
+| 12 (11/16) | Ethereum Contracts (cont'd) | |
 | 13 (11/23) | THANKSGIVING BREAK | |
 | 14 (11/30) | Ethereum as a Platform + Final Presentations | Quiz 9 |
 | 15 (12/7) | Final Presentations | Final Project Due |
