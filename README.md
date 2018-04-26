@@ -1,4 +1,4 @@
-For any questions or concerns about the course, please contact Cameron Payton (cpayton@umd.edu) and/or John Kos (email).
+For any questions or concerns about the course, please contact Cameron Payton (cpayton@umd.edu) and/or John Kos (jkos@terpmail.umd.edu).
 
 # CMSC389C: Bitcoin and Other Cryptocurrencies
 ## Prerequisites: C- or better in CMSC250 and CMSC216
@@ -83,7 +83,7 @@ TA(s):
 Cameron Payton - cpayton@umd.edu
 - Office Hours: TBD
   
-John Kos - (email)
+John Kos - jkos@terpmail.umd.edu
 - Office Hours: TBD
 
 ## Excused Absence and Academic Accommodations
