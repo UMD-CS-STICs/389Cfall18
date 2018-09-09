@@ -1,0 +1,5 @@
+# Blockchain Structure
+
+As mentioned in class this week, the first project is out and is due by 11:59:59 PM on 09/21. The project can be found in this folder. For the project, you will be building a simple block that would go on Bitcoin's blockchain by using a previous block hash, a list of transactions, and finding your own nonce. More details can be found in the README.md file in the project folder. If you have not already cloned this repo, I highly recommend doing that as soon as possible, as it makes it much easier to get necessary material for the class.
+  
+The slides from this week on blockchain structure can be found in this folder as well as [here](https://docs.google.com/presentation/d/1pY8M0tsX3XhidKTRlnUyGd6FCARV6lcsyo-aSZ8o3ns/edit?usp=sharing). Next week we will be covering Proof-of-Work and Mining, which should help with the project if you are having any trouble getting started.
