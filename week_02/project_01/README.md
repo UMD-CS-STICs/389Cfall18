@@ -39,7 +39,7 @@ If you have not already cloned the class repository, run `git clone https://gith
 
 When using the command line, you can use whatever text editor you like (such as Emacs, Vim, or Sublime Text). Whenever you want to run the public tests to check your progress, do the following:
 1. `export CLASSPATH=".:/path/to/jar/guava-23.6-jre.jar:/path/to/jar/hamcrest-core-1.3.jar:/path/to/jar/junit-4.12.jar"`
-   * On Windows, separate the jars by semicolon, not a comma
+   * On Windows, separate the jars by semicolon, not a colon
    * You only have to do this once per Terminal session
 2. `javac PublicTests.java`
    * Note that since PublicTests.java uses Block.java, it will automatically compile both files
