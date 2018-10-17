@@ -62,9 +62,9 @@ will be considered afterwards.
 | 9 (10/26) | Cryptocurrency Market and ICOs | Quiz 7, Final Project OUT |
 | 10 (11/2) | Altcoins (focus on Ethereum) and Proof-of-Stake | Quiz 8 |
 | 11 (11/9) | Ethereum Contracts | Quiz 9 |
-| 12 (11/16) | Ethereum Contracts (cont'd) | |
+| 12 (11/16) | Ethereum Contracts (cont'd) + Ethereum as a Platform | Quiz 10 |
 | 13 (11/23) | THANKSGIVING BREAK | |
-| 14 (11/30) | Ethereum as a Platform + Final Presentations | Quiz 10 |
+| 14 (11/30) | Final Presentations | |
 | 15 (12/7) | Final Presentations | Final Project Due |
 
 ## Projects
