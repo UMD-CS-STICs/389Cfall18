@@ -1,4 +1,4 @@
-pragma solidity ^0.4.0;
+pragma solidity ^0.5.0;
 contract Pool {
 
     struct Player {
@@ -7,7 +7,7 @@ contract Pool {
     }
     
     mapping(address => Player) players;
-    address[] addresses;
+    address payable[] addresses;
     mapping(address => bool) malicious;
     uint8 num_of_players;
     uint8 max_players;
@@ -15,7 +15,7 @@ contract Pool {
 
     // You can assume num is always >= 2
     // You can assume that at least one winner will be an honest participant
-    function Pool(uint8 num) public {
+    constructor (uint8 num) public {
         if (num < 2) {
             revert();
         }
@@ -66,7 +66,7 @@ contract Pool {
     // You can always assume at least one winner is honest
     function payWinner() public {
         if (protocol_is_finished) revert();
-        uint winningTeam = uint(block.blockhash(block.number-1)) % 2;
+        uint winningTeam = uint(blockhash(block.number-1)) % 2;
         uint8 num_of_winners = 0;
         for (uint8 i = 0; i < num_of_players; i++) {
             if (players[addresses[i]].choice == winningTeam &&
